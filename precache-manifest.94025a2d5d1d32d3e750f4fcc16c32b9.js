@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a640ab52967950cf52f5c342b79f2396",
+    "revision": "83bf0fe71e0cd2bab8cd77eb8e20bccb",
     "url": "/sengoku_test_for_mainnet/index.html"
   },
   {
