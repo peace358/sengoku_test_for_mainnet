@@ -4,8 +4,8 @@
     "static/js/0.8628a30e.chunk.js.map": "/sengoku_test_for_mainnet/static/js/0.8628a30e.chunk.js.map",
     "static/js/1.eecae35d.chunk.js": "/sengoku_test_for_mainnet/static/js/1.eecae35d.chunk.js",
     "static/js/1.eecae35d.chunk.js.map": "/sengoku_test_for_mainnet/static/js/1.eecae35d.chunk.js.map",
-    "main.js": "/sengoku_test_for_mainnet/static/js/main.8f84da3b.chunk.js",
-    "main.js.map": "/sengoku_test_for_mainnet/static/js/main.8f84da3b.chunk.js.map",
+    "main.js": "/sengoku_test_for_mainnet/static/js/main.60193efe.chunk.js",
+    "main.js.map": "/sengoku_test_for_mainnet/static/js/main.60193efe.chunk.js.map",
     "runtime-main.js": "/sengoku_test_for_mainnet/static/js/runtime-main.1b248401.js",
     "runtime-main.js.map": "/sengoku_test_for_mainnet/static/js/runtime-main.1b248401.js.map",
     "static/css/4.e2d4d522.chunk.css": "/sengoku_test_for_mainnet/static/css/4.e2d4d522.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.57db0b03.chunk.js": "/sengoku_test_for_mainnet/static/js/9.57db0b03.chunk.js",
     "static/js/9.57db0b03.chunk.js.map": "/sengoku_test_for_mainnet/static/js/9.57db0b03.chunk.js.map",
     "index.html": "/sengoku_test_for_mainnet/index.html",
-    "precache-manifest.5b8637e568d7efef238d9344a3b15a3d.js": "/sengoku_test_for_mainnet/precache-manifest.5b8637e568d7efef238d9344a3b15a3d.js",
+    "precache-manifest.b814a5488d99ec981c31d852e88ad285.js": "/sengoku_test_for_mainnet/precache-manifest.b814a5488d99ec981c31d852e88ad285.js",
     "service-worker.js": "/sengoku_test_for_mainnet/service-worker.js",
     "static/css/4.e2d4d522.chunk.css.map": "/sengoku_test_for_mainnet/static/css/4.e2d4d522.chunk.css.map",
     "static/js/4.60690e8c.chunk.js.LICENSE.txt": "/sengoku_test_for_mainnet/static/js/4.60690e8c.chunk.js.LICENSE.txt",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.1b248401.js",
     "static/css/4.e2d4d522.chunk.css",
     "static/js/4.60690e8c.chunk.js",
-    "static/js/main.8f84da3b.chunk.js"
+    "static/js/main.60193efe.chunk.js"
   ]
 }
