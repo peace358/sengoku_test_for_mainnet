@@ -4,13 +4,13 @@
     "static/js/0.8628a30e.chunk.js.map": "/sengoku_test_for_mainnet/static/js/0.8628a30e.chunk.js.map",
     "static/js/1.eecae35d.chunk.js": "/sengoku_test_for_mainnet/static/js/1.eecae35d.chunk.js",
     "static/js/1.eecae35d.chunk.js.map": "/sengoku_test_for_mainnet/static/js/1.eecae35d.chunk.js.map",
-    "main.js": "/sengoku_test_for_mainnet/static/js/main.91a12918.chunk.js",
-    "main.js.map": "/sengoku_test_for_mainnet/static/js/main.91a12918.chunk.js.map",
+    "main.js": "/sengoku_test_for_mainnet/static/js/main.8294f6e3.chunk.js",
+    "main.js.map": "/sengoku_test_for_mainnet/static/js/main.8294f6e3.chunk.js.map",
     "runtime-main.js": "/sengoku_test_for_mainnet/static/js/runtime-main.1b248401.js",
     "runtime-main.js.map": "/sengoku_test_for_mainnet/static/js/runtime-main.1b248401.js.map",
     "static/css/4.e2d4d522.chunk.css": "/sengoku_test_for_mainnet/static/css/4.e2d4d522.chunk.css",
-    "static/js/4.547ae93c.chunk.js": "/sengoku_test_for_mainnet/static/js/4.547ae93c.chunk.js",
-    "static/js/4.547ae93c.chunk.js.map": "/sengoku_test_for_mainnet/static/js/4.547ae93c.chunk.js.map",
+    "static/js/4.896a7697.chunk.js": "/sengoku_test_for_mainnet/static/js/4.896a7697.chunk.js",
+    "static/js/4.896a7697.chunk.js.map": "/sengoku_test_for_mainnet/static/js/4.896a7697.chunk.js.map",
     "static/js/5.c68518df.chunk.js": "/sengoku_test_for_mainnet/static/js/5.c68518df.chunk.js",
     "static/js/5.c68518df.chunk.js.map": "/sengoku_test_for_mainnet/static/js/5.c68518df.chunk.js.map",
     "static/js/6.ba698f47.chunk.js": "/sengoku_test_for_mainnet/static/js/6.ba698f47.chunk.js",
@@ -22,10 +22,10 @@
     "static/js/9.57db0b03.chunk.js": "/sengoku_test_for_mainnet/static/js/9.57db0b03.chunk.js",
     "static/js/9.57db0b03.chunk.js.map": "/sengoku_test_for_mainnet/static/js/9.57db0b03.chunk.js.map",
     "index.html": "/sengoku_test_for_mainnet/index.html",
-    "precache-manifest.67391c7f1e0bcf2be8374aeaae5fef93.js": "/sengoku_test_for_mainnet/precache-manifest.67391c7f1e0bcf2be8374aeaae5fef93.js",
+    "precache-manifest.bbf6e3a7411a69143d54e5db0df2bf80.js": "/sengoku_test_for_mainnet/precache-manifest.bbf6e3a7411a69143d54e5db0df2bf80.js",
     "service-worker.js": "/sengoku_test_for_mainnet/service-worker.js",
     "static/css/4.e2d4d522.chunk.css.map": "/sengoku_test_for_mainnet/static/css/4.e2d4d522.chunk.css.map",
-    "static/js/4.547ae93c.chunk.js.LICENSE.txt": "/sengoku_test_for_mainnet/static/js/4.547ae93c.chunk.js.LICENSE.txt",
+    "static/js/4.896a7697.chunk.js.LICENSE.txt": "/sengoku_test_for_mainnet/static/js/4.896a7697.chunk.js.LICENSE.txt",
     "static/js/5.c68518df.chunk.js.LICENSE.txt": "/sengoku_test_for_mainnet/static/js/5.c68518df.chunk.js.LICENSE.txt",
     "static/js/9.57db0b03.chunk.js.LICENSE.txt": "/sengoku_test_for_mainnet/static/js/9.57db0b03.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/sengoku_test_for_mainnet/static/media/Inter.var.4b976905.woff2",
@@ -67,7 +67,7 @@
   "entrypoints": [
     "static/js/runtime-main.1b248401.js",
     "static/css/4.e2d4d522.chunk.css",
-    "static/js/4.547ae93c.chunk.js",
-    "static/js/main.91a12918.chunk.js"
+    "static/js/4.896a7697.chunk.js",
+    "static/js/main.8294f6e3.chunk.js"
   ]
 }
